@@ -539,8 +539,13 @@ header .links .login_signup a {
   background: var(--main-color);
 }
 
+.top_slide h2 {
+  font-size: 18px;
+}
+
 .top_slide span {
   font-weight: normal;
+  font-size: 18px;
 }
 
 /* ====================== Start product ====================== */
